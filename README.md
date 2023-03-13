@@ -3,8 +3,6 @@
 # goldnite
 
 ---
-  
-<br />
 
 ![Metrics](/profile/metrics.svg)
 
